@@ -1,7 +1,7 @@
 - Hi, I’m @KB284
 - I’m interested in software security
-- I’m currently learning how to use BurpSuite
-- I'm a student who is motivated to dive deeper in the world of software security such as pen testing and ethical hacking.
+- Recent graduate from FGCU in Software Engineering with a focus on software testing.
+- Always looking for new opportunities to learn.
 
 <!---
 KB284/KB284 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
