@@ -1,4 +1,4 @@
-- Hi, I’m @KB284
+- I'm deep fried and smothered in chocolate.
 - I’m interested in software security
 - Recent graduate from FGCU in Software Engineering with a focus on software testing.
 - Always looking for new opportunities to learn.
